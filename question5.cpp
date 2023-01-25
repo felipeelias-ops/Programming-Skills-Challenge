@@ -102,8 +102,7 @@ void unitTest()
     }
 
     TEST_FUNC(okTest);
-
-
+    
 }
 
 
@@ -114,6 +113,4 @@ int main(){
 
     // Call the unitTest with several scenarios
     unitTest();
-
 }
-
