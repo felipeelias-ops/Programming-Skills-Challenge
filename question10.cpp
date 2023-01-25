@@ -3,7 +3,6 @@ using namespace std;
 
 //simple read all the chars in the string
 int tamanhoString(string s){
-
     int i;
 
     for (i = 0; s[i] != '\0'; ++i);
@@ -13,7 +12,6 @@ int tamanhoString(string s){
 
 //Main func
 int main(){
-
     string s;
     int tamanho;
 
