@@ -37,12 +37,10 @@ This code is the unit test for Challenge number 4. The user can just compile and
 This simple SQL query just sorts the highest grades. Grades below 8 are not shown (NULL is printed instead).
 
 * question8.sql contains the solution for the Challenge number 8.
-This simple sql query returns pet names only. Redundant names are shown only once. The user can just compile and run, no input is required.
-
+This simple sql query returns pet names only. Redundant names are shown only once. The user can just run, no input is required.
 
 * question10.cpp contains the solution for the Challenge number 10. 
+This simple code implements a function that reads a string and counts how many chars are included. The user is asked to write a string, the code returns the length of the string.
 
-
-
-* question11.cpp contains the solution for the Challenge number 11. 
-
+* question11.cpp contains the solution for the Challenge number 11.
+This code implements a function that reverses a string. This is accomplished using only XOR operations. In that sense, no buffers, variables, or prebuilt functions are used. The user is asked to write a string, the code returns the string reversed.
