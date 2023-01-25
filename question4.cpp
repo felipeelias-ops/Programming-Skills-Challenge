@@ -68,7 +68,6 @@ int main(){
 
     cout << "Write two strings and a int number:" << endl;
 
-
     //get two strings
     getline(cin, s);
     getline(cin, t);
