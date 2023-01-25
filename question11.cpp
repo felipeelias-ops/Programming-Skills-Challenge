@@ -5,7 +5,6 @@ using namespace std;
 // This function reverses a string
 string revString(string str)
 {
-
     int i = 0;
     int j;
 
